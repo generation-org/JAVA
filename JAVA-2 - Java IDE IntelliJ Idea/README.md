@@ -7,7 +7,7 @@
  <br/>
  
  
- ## Part1: Creating my First Java Project on IntelliJ Idea
+ ## Part 1: Creating my First Java Project on IntelliJ Idea
  1. Open the IntelliJ Idea App and follow the instructions to create a new Java Project.
  2. Edit the Main class so it prints "Hello Wolrd!" message:
 
@@ -46,7 +46,7 @@
 8. Add a breakpoint to first line *String test = "Hello";*
 9. Run your application again on Debug mode and observe how the variable test changes.
 
- ## Part2: Importing an existing project into IntelliJ Idea
+ ## Part 2: Importing an existing project into IntelliJ Idea
  1. Download this repository
  2. Exctract the downloaded files
  3. Click on the *File* menu of the IDE and select the option open project and select the folder of the exctracted files
