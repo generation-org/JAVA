@@ -41,6 +41,6 @@
  3. Add some code to the *main* method to invoke the aritmetic functions defined and verify it works as expected.
  
 ## Challenge yourself
-Add some more functions to your *CalculatorBrain*:
+Add some more functionality to your *CalculatorBrain*:
 * Square Root
 * Power Of
