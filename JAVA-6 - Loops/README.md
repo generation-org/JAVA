@@ -67,3 +67,7 @@
 *Hint* You can use the following String functions:
 - lenght() -> returns the total number of characters of a given String
 - chartAt(i) -> returns the character at the given position(*i*) of a String
+
+### Challenge yourself
+
+Write a for loop that makes the counter go from 15 to 30, counting by 3s.
