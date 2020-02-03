@@ -15,7 +15,7 @@
 - **Good** if they scored > 5 but less than 8. (8 included)
 - **Excellent Grade** if they scored 10.
 
-## Part 2:
+## Part 2: Weight Guru Challenge
 1. Create a Java program that tells whether your body to weight ratio is good or could be better.
 2. The java app should take in your weight and height from the console and calculate your body to weight ratio.
 3. You can use [this article](https://www.rush.edu/health-wellness/quick-guides/what-is-a-healthy-weight) as a standardized guide for how to apply the logic.
