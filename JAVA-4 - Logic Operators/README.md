@@ -14,6 +14,7 @@
 - **Insufficient** if they scored > 3 but less than 5. (5 included)
 - **Good** if they scored > 5 but less than 8. (8 included)
 - **Excellent Grade** if they scored 10.
+- if participants enter a negative number or a number outside the range supported (outside 0 - 10)
 
 ## Part 2: Weight Guru Challenge
 1. Create a Java program that tells whether your body to weight ratio is good or could be better.
