@@ -16,7 +16,7 @@
  5. Modify the *Course* class so it follows the encapsulation principle keeping data private to the class.
  6. Modify the *StudentService* class so it follows the encapsulation principle: 
  *  Make data private so it can only be modified inside the class.
- * Create a method that lets you add students and use that in the main.
+ * Create a method that lets you add students and use that in the *main* function.
  
  
  ## Part 2: Using collections with objects
