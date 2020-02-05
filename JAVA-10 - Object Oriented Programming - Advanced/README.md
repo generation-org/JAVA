@@ -14,7 +14,9 @@
  3. Create at least two packages to organize your project better. Move the corresponding classes to the packages.
  4. Modify the *Student* class so it follows the encapsulation principle keeping data private to the class.
  5. Modify the *Course* class so it follows the encapsulation principle keeping data private to the class.
- 6. Modify the *StudentService* class so it follows the encapsulation principle having a method that lets you add students and keeps the data to the class.
+ 6. Modify the *StudentService* class so it follows the encapsulation principle: 
+ *  Make data private so it can only be modified inside the class.
+ * Create a method that lets you add students and use that in the main.
  
  
  ## Part 2: Using collections with objects
