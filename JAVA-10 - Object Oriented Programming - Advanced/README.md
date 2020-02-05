@@ -7,4 +7,9 @@
  <br/>
  
  
- ## Part 1:
+ ## Part 1: Access Modifiers and Encapsulation
+ 
+ 1. Download the source code, import the project into IntelliJ Idea and run it to verify it works correctly.
+ 2. Implement the following functions:
+ 
+ 
