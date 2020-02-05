@@ -20,7 +20,7 @@
  
  
  ## Part 2: Using collections with objects
- 1. Implment the following function in the *StudentService* class
+ 1. Implment the following functions in the *StudentService* class:
 
  ```java
     public void showEnrolledStudents(String courseId){
