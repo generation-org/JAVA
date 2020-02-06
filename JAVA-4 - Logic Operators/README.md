@@ -9,7 +9,7 @@
 
 ## Part 1: Class Grader
 1. Open IntelliJ Idea App and create a project called **ClassGrader**
-2. Write a program where a user enters the grade of a student and the program returns a grade based on the following conditions
+2. Write a program that receives numerical input of a student score and the program returns a grade based on the following conditions
 - **Failed** if they scored 3 or less
 - **Insufficient** if they scored > 3 but less than 5. (5 included)
 - **Good** if they scored > 5 but less than 8. (8 included)
@@ -17,6 +17,6 @@
 - if participants enter a negative number or a number outside the range supported (outside 0 - 10)
 
 ## Part 2: Weight Guru Challenge
-1. Create a Java program that tells whether your body to weight ratio is good or could be better.
+1. Write a Java program that takes numerical input from users in the form of weight and height and tells whether your body to weight ratio is good or could be better.
 2. The java app should take in your weight and height from the console and calculate your body to weight ratio.
 3. You can use [this article](https://www.rush.edu/health-wellness/quick-guides/what-is-a-healthy-weight) as a standardized guide for how to apply the logic.

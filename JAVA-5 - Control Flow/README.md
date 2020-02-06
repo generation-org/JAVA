@@ -8,7 +8,7 @@
 
 
 ## Part 1: Commission Calculator
-1. Using IntelliJ, write a Java app that takes numerical input from a user
+1. Using IntelliJ, write a Java app that takes numerical input from a user for their sales amount and prints out the commission.
 2. The app should calculate commission based on this chart used by the retail store.
 
 | Sales Range   | Commission
