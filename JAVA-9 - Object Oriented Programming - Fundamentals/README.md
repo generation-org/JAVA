@@ -18,19 +18,8 @@
  4. Create the class described by the following diagram:
 
 
-```mermaid
-classDiagram
-      class Student {
-        +String firstName;
-        +String lastName;
-        +int registration;
-        +int grade;
-        +int year;
-        + void printFullName()
-        + void isApproved()
-        + int changeYearIfApproved()
-        }
-```
+![](https://i.imgur.com/HH25G4v.png)
+
 
 As the diagram specifies, the class should have the following attributes:
 
