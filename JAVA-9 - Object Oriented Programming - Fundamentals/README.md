@@ -10,7 +10,29 @@
  ## Part 1: Exploring the School System Project
  
  1. Download the src folder and import the project into IntelliJ Idea
- 2. Create a *Student* class. This class should implement the following attributes:
+ 2. To give instructions for these and the next exercises, we'll something called class diagrams.
+    * Class diagrams are a form of representing classes and relationships between them
+    * We'll learn more about the symbols in future sessions, but for now, all you need to know is where to locate attributes and methods in a basic class diagram:
+        * ![](https://i.imgur.com/pA6Tkxi.png)
+
+ 4. Create the class described by the following diagram:
+
+
+```mermaid
+classDiagram
+      class Student {
+        +String firstName;
+        +String lastName;
+        +int registration;
+        +int grade;
+        +int year;
+        + void printFullName()
+        + void isApproved()
+        + int changeYearIfApproved()
+        }
+```
+
+As the diagram specifies, the class should have the following attributes:
 
  ```java
     public class Student {
@@ -22,7 +44,7 @@
     }
  ```
 
-3. Now, make the *Student* class implement the following methods:
+And the following methods:
 
  
  ```java
@@ -41,11 +63,11 @@
     }
  ```
  
-5. Add constructors to your Student class
+4. Add constructors to your Student class
 
     * Make the class with at least three different constructors
 
-4. Create a Java class for Courses
+5. Create a Java class for Courses
 
     * Your Course class must have, as attributes: courseName, professorName, year
     * Your class must also contain a collection that lists all students enrolled in them
@@ -73,7 +95,7 @@
     }
  ```
 
-4. Run the main method and verify that your implementation works.
+6. Run the main method and verify that your implementation works.
 
 ## Challenge yourself
 
