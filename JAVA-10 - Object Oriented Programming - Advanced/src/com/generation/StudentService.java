@@ -46,4 +46,8 @@ public class StudentService
     public void showEnrolledStudents(String courseId){
         //TODO implement using collections loops
     }
+
+    public void showAllCourses(){
+        //TODO implement using collections loops
+    }
 }
