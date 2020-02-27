@@ -31,6 +31,6 @@
      ```
 
 #### Challenge Yourself
-1. As you can see this algorithm is not very fare. It does not consider distance so the drivers
+1. As you can see this algorithm is not very fair. It does not consider distance so the drivers
 will always get paid the same fee. Modify the code so it considers distance too.
  
