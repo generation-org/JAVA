@@ -41,11 +41,11 @@
     }
  ```
  
-5. Add constructors to your Student class
+4. Add constructors to your Student class
 
     * Make the class with at least three different constructors
 
-4. Create a Java class for Courses
+5. Create a Java class for Courses
 
     * Your Course class must have, as attributes: courseName, professorName, year
     * Your class must also contain a collection that lists all students enrolled in them
@@ -73,7 +73,17 @@
     }
  ```
 
-4. Run the main method and verify that your implementation works.
+6. Run the main method and verify that your implementation works.
+
+7. Method Overload
+    * Overload the enroll method to take in an array of students
+
+ ```java
+    public void enroll(Student[] students){
+       //TODO add all the students to the collection
+    }
+ ```
+  * Add on to the main method and call enroll with a list of students. Verify that your implementation works.
 
 ## Challenge yourself
 
