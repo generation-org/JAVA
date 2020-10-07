@@ -8,7 +8,7 @@
  Its time to see how much you learn about Java and Object Oriented Programming.
  
  ## Part 1: Understanding the StudentGen project
- 1. Download the source code and import the project into your favorite IDE IntelliJ Idea.
+ 1. Download the source code and import the project using IntelliJ Idea or any other IDE you prefer.
  2. Understand the project stucture:
  * Packages
  * Classes
