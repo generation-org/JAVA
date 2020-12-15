@@ -49,6 +49,8 @@ public class Passenger
         return balance;
     }
 
+    public Boolean isOnTrip() { return isOnTrip; }
+
     public void startTrip()
     {
         isOnTrip = true;
