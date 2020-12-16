@@ -16,7 +16,7 @@
  3. Run and test the project to get a deeper undertanding of how it works (remember the persistence mindset!)
  
   ## Part 2: Implementing the Student and StudentService missing features
-  1. Open the *Student* class and implement the following methods:
+  1. Open the *Student* class (`src/com/generation/model/Student.java`) and implement the following methods:
   
    ```java
     public void enrollToCourse( Course course )
@@ -49,7 +49,7 @@
     }
    ```
    
-   2. Open the *StudentService* class and implement the following methods:
+   2. Open the *StudentService* class (`src/com/generation/service/StudentService.java`) and implement the following methods:
    
    ```java
        public boolean isSubscribed( String studentId )
@@ -66,7 +66,7 @@
 
   ## Part 3: Implementing the missing main method features
  
- 1. Implement the method to *gradeStudent( StudentService studentService, Scanner scanner )* to have a fully functional programm.
+ 1. Implement the method to *gradeStudent( StudentService studentService, Scanner scanner )* in `src/com/generation/Main.java ` to have a fully functional program.
  
  2. Test the program to verify it works as expected:
   * Create a new student.
