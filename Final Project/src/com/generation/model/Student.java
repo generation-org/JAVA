@@ -37,6 +37,7 @@ public class Student
         return false;
     }
 
+    // CHALLENGE IMPLEMENTATION: Read README.md to find instructions on how to solve. 
     public List<Course> findPassedCourses( Course course )
     {
         //TODO implement this method
