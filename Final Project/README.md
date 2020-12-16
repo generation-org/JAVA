@@ -57,6 +57,8 @@
            //TODO implement
        }
    ```
+   
+   Hint: To show the summary use `System.out.println()` to print out to the console.
 
   ## Part 3: Implementing the missing main method features
  
