@@ -30,12 +30,6 @@
         return false;
     }
 
-    public List<Course> findPassedCourses( Course course )
-    {
-        //TODO implement this method
-        return null;
-    }
-
     public boolean isAttendingCourse( String courseCode )
     {
         //TODO implement this method
