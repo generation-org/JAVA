@@ -80,4 +80,6 @@
   
   
   ## Challenge Yourself
-  1. Implement an additional feature in the menu options that will display the average grade of all the students suscribed to a given course.
+  1. Implement a way to store grades for each course a student is taking. There should be a way to update/set the score.
+  Afterwards, fill in the `public List<Course> findPassedCourses( Course course )` method in Student.java
+  2. Implement an additional feature in the menu options that will display the average grade of all the students suscribed to a given course.
