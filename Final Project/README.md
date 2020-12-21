@@ -1,7 +1,7 @@
 
 <img align="right" width="150" height="150" src="https://media-exp1.licdn.com/dms/image/C4E0BAQF7BYCCZt5epw/company-logo_200_200/0?e=2159024400&v=beta&t=qUAFP9bUgBEEXGVQYpUXW1J_OiP8e0r4rFBpqp8OrxA">
 
-# Final Project
+# RR-JAVA-INTRO
 
  <br/>
  <br/>
@@ -13,7 +13,7 @@
  * Packages
  * Classes
  * Functionality
- 3. Run and test the project to get a deeper undertanding of how it works (remember the persistence mindset!)
+ 3. Run and test the project to get a deeper undertanding of how it works (remember the persistence mindset!).
  
   ## Part 2: Implementing the Student and StudentService missing features
   1. Open the *Student* class (`src/com/generation/model/Student.java`) and implement the following methods:
@@ -76,7 +76,7 @@
   2. Modify the createStudentMenu so it handles correctly the exception when a wrong date format is inserted by the user.
   3. Catch the exception and show a proper message to the user.
   
- ## Part 5: Writing Unit Test
+ ## Part 5: Writing Unit Tests
  1. Write 2 Unit tests for the class *StudentService*
  2. Write 2 Unit tests for the class *CourseService*
   
