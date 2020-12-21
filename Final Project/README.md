@@ -5,7 +5,7 @@
 
  <br/>
  <br/>
- Its time to see how much you learned about Java and Object Oriented Programming.
+ It's time to see how much you learned about Java and Object Oriented Programming.
  
  ## Part 1: Understanding the StudentGen project
  1. Download the source code and import the project using IntelliJ Idea or any other IDE you prefer.
