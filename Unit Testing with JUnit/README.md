@@ -3,30 +3,43 @@
 
 #### Part 1: Writing Unit Tests
 
-1. Open the Drive package and explore the classes and what they do.
+1. Open the model.calculator package and explore the classes and what they do.
 
-2. Open the *DriversManagerTest* class and implement unit test for the following scenarios:
-* Verify a Passenger is added correctly
-* Verify a Driver is added correctly
+2. Open the *Calculator* class and identify which methods work for the following scenarios:
+* Adding numbers
+* Subtracting numbers
+* Multiplying numbers
+* Dividing numbers
 
-3. Implement the following unit test in the *DriversManagerTest* class:
+3. Implement the following unit tests in the *CalculatorTest* class:
 
      ```java
         @Test
-        public void startTripTest(){
+        public void addTest(){
     
         }
     
         @Test
-        public void endTripTest(){
+        public void subtractTest(){
     
         }
+   
+        @Test
+        public void multplyTest(){
+    
+        }
+    
+        @Test
+        public void divideTest(){
+    
+        }
+
      ```
 #### Part 2: Test Driven Development
 1. Implement the following unit test so it fails:
      ```java
         @Test
-        public void nextAvailableDriverTest(){
+        public void remainderTest(){
     
         }
      ```
@@ -34,6 +47,5 @@
 1. Think of 2 edge cases that have not been tested. Write a unit test for each case. 
 
 #### Challenge Yourself
-1. As you can see this algorithm is not very fair. It does not consider distance so the drivers
-will always get paid the same fee. Modify the code so it considers distance too.
+1. You implemented a remainderTest() method earlier that fails. Write some code in the calculator class to make this test pass.
  

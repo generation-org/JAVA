@@ -1,4 +1,4 @@
-package calculator.model.drive;
+package calculator.model.calculator;
 
 import java.util.HashMap;
 
